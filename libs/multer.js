@@ -63,5 +63,5 @@ module.exports = {
     }),
     document: generateFilter({
         allowedMimeTypes: ['application/pdf']
-    })
+    }),
 };
