@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/v1/imagekit/qr-codes
+Content-Type: application/json
+
+{
+    "qr_data":"https://imagekit.io"
+}
